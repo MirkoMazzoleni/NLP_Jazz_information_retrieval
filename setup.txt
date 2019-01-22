@@ -1,0 +1,5 @@
+conda env create -f jazz_inf_retrieval.yml
+
+conda activate jazz_inf_retrieval  
+
+jupyter notebook
